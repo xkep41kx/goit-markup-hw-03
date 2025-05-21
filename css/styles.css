@@ -1,0 +1,259 @@
+body{ 
+    font-family:"Roboto", sans-serif ;
+    color:#434455;
+    background-color:#ffffff ;
+}
+    
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* =====HEADER===== */
+
+.header {
+    background: #ffffff;
+}
+
+.header-nav {
+    
+}
+
+.nav-link {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        font-style: normal;
+        color: #4d5ae5;
+}
+
+.nav-link .accent{
+    color: #2e2f42;
+}
+
+.header-nav{
+
+}
+
+.nav-list {
+   
+}
+
+.nav-list-item {
+
+}
+
+.nav-list-link {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.nav-list-link:hover,:focus{
+    color: #404bbf;
+}
+
+.header-address {
+    font-style: normal;
+}
+
+.address-list {
+
+}
+
+.address-list-item {
+
+}
+
+.header-address-link {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.header-address-link:hover, :focus{
+    color: #404bbf;
+}
+
+/* =====START===== */
+
+.start {
+        background: #2e2f42;
+}
+
+.start-title {
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #ffffff;
+}
+
+.btn {
+    font-family: "Roboto", sans-serif;
+                background: #4d5ae5;           
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 1.5;
+                    letter-spacing: 0.04em;
+                    color: #fff;
+                    cursor: pointer;
+}
+
+.btn:hover, :focus{
+    background-color: #404bbf;
+}
+/* =====BENEFITS===== */
+
+.benefits {
+
+}
+
+.benefits-list {
+
+}
+
+.benefits-item {
+
+}
+
+.benefits-subtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.benefits-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* =====OURTEAM===== */
+
+.ourteam {
+        background: #f4f4fd;
+}
+
+.ourteam-title {
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+        text-transform: capitalize;
+}
+
+.ourteam-list {
+
+}
+
+.ourteam-item {
+    background: #ffffff;
+
+}
+
+.ourteam-image {
+
+}
+
+.ourteam-subtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.ourteam-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+
+/* =====PORTFOLIO===== */
+
+.portfolio {
+
+}
+
+.portfolio-title {
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+        text-transform: capitalize;
+}
+
+.portfolio-list {
+
+}
+
+.portfolio-item {
+
+}
+
+.portfolio-image {
+    background: #ffffff;
+}
+
+.portfolio-subtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.portfolio-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* =====FOOTER===== */
+
+.footer {
+    background: #2e2f42;
+}
+
+.footer-link {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+
+.footer-link .accent {
+    color: #f4f4fd;
+}
+
+.footer-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
