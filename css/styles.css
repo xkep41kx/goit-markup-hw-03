@@ -296,7 +296,7 @@ padding-bottom: 120px;
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
-    row-gap: 48px;
+    column-gap: 48px;
 }
 
 .portfolio-item {
