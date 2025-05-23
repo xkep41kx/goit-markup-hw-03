@@ -249,7 +249,7 @@ display: flex;
 
 } */
 
-.wrapper .container{
+.ourteam-item .container{
 width: 264px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #ffffff;
@@ -299,19 +299,16 @@ padding-bottom: 120px;
 }
 
 .portfolio-item {
-width: calc((100% - 24px) /3);
+    margin-right: 0;
+    margin-left: 24px;
+width: calc((100% - 72px) /3);
 }
 
-.portfolio-item .portfolio-wrapper{
-    width: 360px;
-    border-bottom: 1px solid #e7e9fc;
-        border-left: 1px solid #e7e9fc;
-        border-right: 1px solid #e7e9fc;
-}
-
-.portfolio-wrapper .container{
+.portfolio-item .container{
 width: 360px;
-
+border-bottom: 1px solid #e7e9fc;
+    border-left: 1px solid #e7e9fc;
+    border-right: 1px solid #e7e9fc;
 }
 
 .portfolio-image {
